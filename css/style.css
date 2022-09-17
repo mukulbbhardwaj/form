@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.hero{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+    border: 2px solid black;
+    width: fit-content;
+    
+}
+.item1{
+    border: 2px solid green;
+}
